@@ -1,0 +1,22 @@
+.col-md-6 img{
+  width: 300px;
+  height: 300px;
+  margin-left: 130px;
+  border: solid black 7px;
+
+}
+.well h1{
+  text-align: center;
+}
+li{
+  font-size: 24px;
+  text-align: center;
+  display: inline-block;
+  background-color: yellow;
+}
+body{
+  background-color: lightblue;
+}
+.food img{
+  display: none;
+}
